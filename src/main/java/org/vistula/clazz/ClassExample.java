@@ -11,5 +11,5 @@ public class ClassExample {
         String userName = myConsole.nextLine();  // Read user input
         Person me = new Person(userName); // Creates new Person object with name 'me'
         me.printName(); // Invoking printName() method on 'me' object
-    }
+    }//
 }
